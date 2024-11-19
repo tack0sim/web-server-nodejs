@@ -73,3 +73,13 @@ npm -v # should print `10.9.0`
 ```
 
 Install successful!
+
+# Step 3: Starting a local web server
+
+A: Preparing web server:
+
+```bash
+$ npx http-server -o /Test-Codes/calculator\ app -p 8080
+```
+
+Web server active!
